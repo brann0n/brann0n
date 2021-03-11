@@ -1,3 +1,3 @@
-### ye eeeet
+# Hello
 
-check this website that i kinda not really put any effort in: http://ba99.ga
+I have a website that shows a similar list of all my public github projects: http://ba99.ga
